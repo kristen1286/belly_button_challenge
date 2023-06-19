@@ -1,6 +1,10 @@
 # belly_button_challenge (module 14 repo challenge)
 
-![bacteria](images/bacteria.jpg)
+
+<p align="center">
+<img src="Images/bacteria.jpg" alt="bacteria >
+</p>
+  
 ---
 ## Table of Contents
 - [Background](#background)
@@ -25,7 +29,7 @@ The dataset reveals that a small handful of microbial species (also called opera
       -  Use otu_labels as the hovertext for the chart.
      
 <p align="center">
-<img src="images/hw01.png" alt="bar_chart="500" height="300">
+<img src="Images/hw01.png" alt="bar_chart="500" >
 </p>
 
 ---
@@ -38,17 +42,17 @@ The dataset reveals that a small handful of microbial species (also called opera
       -  Use otu_labels for the text values.
 
 <p align="center">
-<img src="images/bubble_chart.png" alt="bubble_chart" width="500" height="300">
+<img src="Images/bubble_chart.png" alt="bubble_chart" >
 </p>
 
 ---
-## Part 3: Demographic Information <a name="Demographic"></a>      
+## Part 3: Demographic Information <a name="demographic"></a>      
 1. Display the sample metadata, i.e., an individual's demographic information.
 2. Display each key-value pair from the metadata JSON object somewhere on the page.
 3. Display each key-value pair from the metadata JSON object somewhere on the page.
 
   <p align="center">
-<img src="images/hw03.png" alt="demographic_chart" width="500" height="300">
+<img src="Images/hw03.png" alt="demographic_chart" >
 </p>
 
 ---
@@ -59,5 +63,5 @@ The dataset reveals that a small handful of microbial species (also called opera
 3. Update the chart whenever a new sample is selected.
 
 <p align="center">
-<img src="images/gauge.png" alt="gauge_chart" width="500" height="300">
+<img src="Images/gauge.png" alt="gauge_chart" >
 </p>
