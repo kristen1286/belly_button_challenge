@@ -1,12 +1,12 @@
 # belly_button_challenge (module 14 repo challenge)
 
-
 <p align="center">
-<img src="Images/bacteria.jpg" alt="bacteria >
+<img src="Images/bacteria.jpg" alt="bacteria" >
 </p>
   
 ---
 ## Table of Contents
+
 - [Background](#background)
 - [Part 1: Bar Chart](#bar)
 - [Part 2: Bubble Chart](#bubble)
